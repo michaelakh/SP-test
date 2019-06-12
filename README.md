@@ -43,8 +43,6 @@ ruby init.rb
 
 5. Follow onscreen instructions
 
-Example Actions:
-'logs', 'logs by unique', 'quit'
 
 ## Contributors
 
