@@ -14,8 +14,34 @@ RSpec
 
 ## Getting Started
 
- * Pending
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
+### Installing
+
+1. Clone the repo
+
+``` console
+git clone https://github.com/michaelakh/sp_test.git
+```
+
+2. Open cd into the directory
+
+``` console
+cd sp_test
+```
+
+3. Run tests
+
+``` console
+rspec
+```
+
+4. Run app
+``` console
+ruby init.rb
+```
+
+5. Follow onscreen instructions
 ## Contributors
 
 * **Michael Ohioze Akhazemea** - *Initial work* - [MOA Technologies](https://moatechnologies.herokuapp.com)
