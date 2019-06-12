@@ -1,4 +1,4 @@
-# IG Stories Web App
+# Weblogs App
 
 Description: 
 A mini weblogs data retreiver app that
